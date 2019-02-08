@@ -1,9 +1,9 @@
 .DS_Store
 .dart_tool/
-
+ios/.generated/
 .packages
 .pub/
-
 build/
-
+pubspec.lock
 .flutter-plugins
+.idea/
