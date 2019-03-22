@@ -1,6 +1,6 @@
 # Quest
 
-A new Flutter project.
+A new Flutter project, It's about of missions that new member should complete for met everybody of  "La Cafeta lab".
 
 ## Getting Started
 
