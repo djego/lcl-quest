@@ -7,3 +7,5 @@ build/
 pubspec.lock
 .flutter-plugins
 .idea/
+.vscode
+.metadata
